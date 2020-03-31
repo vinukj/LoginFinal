@@ -1,3 +1,6 @@
+Modified and added new content. All credit to azizoglu . Original work can be found here - https://github.com/azizoglu/FirebaseLoginExample
+
+
 # Flutter Firebase Login Example
 
 In this app, I have implemented Firebase Authantication login and sign up for both Android and iOS.
@@ -29,19 +32,16 @@ Install a few plugins before you start. Add the plugins to your package's pubspe
 - - For loading animation [flutter_spinkit](https://pub.dev/packages/flutter_spinkit "flutter_spinkit").
 
 ### Step 3: Create UI
-- [Login Page View](https://github.com/azizoglu/FirebaseLoginExample/blob/master/lib/ui/views/login_page.dart "Login Page View")
-- [Home Page View](https://github.com/azizoglu/FirebaseLoginExample/blob/master/lib/ui/views/home_page.dart "Home Page View")
-- [Sign Up Page View](https://github.com/azizoglu/FirebaseLoginExample/blob/master/lib/ui/views/signup_page.dart "Sign Up Page View")
-- [Loading](https://github.com/azizoglu/FirebaseLoginExample/blob/master/lib/ui/shared/loading.dart "Loading")
+- [Login Page View]
+- [Home Page View]
+- [Sign Up Page View]
+- [Loading]
 
 ### Step 3: Create Authentication Class
-Create a new dart file [auth.dart](https://github.com/azizoglu/FirebaseLoginExample/blob/master/lib/core/services/auth.dart "auth.dart")  where we will set up the firebase authentication and google sign in.
+Create a new dart file [auth.dart]  where we will set up the firebase authentication and google sign in.
 
 ### Step 4: Create User Model Class
-Create a new dart file [user.dart](https://github.com/azizoglu/FirebaseLoginExample/blob/master/lib/data/models/user.dart")  for user data. 
+Create a new dart file [user.dart]for user data. 
 
-## Screenshots
-![GCS](https://github.com/azizoglu/FirebaseLoginExample/blob/master/screenshot/screenshot.jpg) 
 
-# LoginFinal
-# LoginFinal
+
